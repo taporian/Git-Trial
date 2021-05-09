@@ -11,7 +11,7 @@
     all client’s devices on a daily basis
   - 802.1Q VLAN tunneling, inter VLAN routing for VOIP, CCTV, multiple SSID and 
    other routing context
-  - Configuringhotspotandcreatinguserswithcustom limitationssuchasqueuetraffic,
+  - Configuring hotspot and creating user swith custom limitations such as queue traffic,
 scheduling,blockingURLsusingProxyserve
   - Set up IP Sec VPNs, Terminal Servers, FTP and NAS servers
   - Developed Firewall, NAT modules, proxies for Residential Gateway product
@@ -36,7 +36,7 @@ scheduling,blockingURLsusingProxyserve
 - **IT/Technician - FreeLance - 2011-Present**
   - Coordinated with a team to resolve Networking issues.
   - Coordinated with a team to set up labor force.
-  - Supervised labor team bringing projects to completion on time and withing budget.
+  - Supervised labor team bringing projects to completion on time and within budget.
   - Interacted with vendors for buying the right equipements to fit the client's needs.
   - Layout Networking Strategies.
 <br />
